@@ -1,0 +1,4 @@
+git clone https://github.com/Powerlearnproject/se-day5-assignment-ibra-lgtm.git
+cd se-day5-assignment-ibra-lgtm
+echo "# SE Day 5 Assignment" >> README.md
+touch LICENSE
